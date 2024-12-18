@@ -13,3 +13,9 @@
 
 <img src="https://github.com/HericksonSavelli/Wide-Coverage/blob/master/Wide%20Coverage(2).png?raw=true"/>
 
+
+
+<h2>Fale Comigo</h2>
+<strong>Herickson Savelli</strong>! :blush:
+<br>
+<a href="https://www.linkedin.com/in/herickson-savelli-7a7152237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
